@@ -1,0 +1,7 @@
+{
+  "name": "t10actionsheet",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
